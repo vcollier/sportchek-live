@@ -1,0 +1,74 @@
+
+.header{
+    background: rgb(73, 73, 73);
+    display: flex;
+    
+}
+
+h4{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 15%;
+    height: 70px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.filterNav{
+    width: 90%;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.filterNav ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.filterNav u li{
+    margin: 0 auto;
+}
+
+.formNav{
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.items-section img{
+    width: 20%;
+}
+
+.items-section a{
+    color: black;
+}
+
+.admin-nav{
+    color: black;
+    margin-left: 20px;
+}
+
+.admin-welcome{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.product-div{
+    margin-top: 20px;
+}
+
+.user-div{
+    margin-top: 20px;
+}
